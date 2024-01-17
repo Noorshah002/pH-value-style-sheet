@@ -1,0 +1,120 @@
+body
+{
+    
+   
+    padding: 10px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border: 4px darkolivegreen;
+    border: #070005;
+    font-size: 25px;
+    font-style: italic;
+    
+    
+
+}
+h1
+{
+background-color: #070005;
+color: rgb(248, 240, 240);
+padding: 30px;
+text-shadow: 3px 3px 6px black;
+text-align: center;
+
+text-combine-upright: white;
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+font-size: 80px;
+font-weight: 300px;
+border-radius: 5px;
+border-style: groove;
+border-color:darkolivegreen;
+border-width: 30px;
+font-style: oblique;
+}
+p
+{
+    padding: 7px;
+    margin: 0;}
+p#zero
+{
+background-color: #372231;
+}
+p#one
+{
+
+background-color:#503148;
+
+}
+
+p#two
+{
+background-color:#6f4463 ;
+
+}
+
+p#three
+{
+background-color:#835075 ;
+
+}
+
+p#four
+{
+background-color:#925a83;
+
+}
+
+p#five
+{
+background-color:#9c608c;
+
+}
+
+p#six
+{
+background-color:#a66e97;
+
+}
+
+p#seven
+{
+background-color: #d9c19d;
+
+}
+p#eight
+{
+background-color: #a08679;
+
+}
+p#nine
+{
+background-color: #8b6c5c;
+
+}
+p#ten
+{
+background-color: #765341;
+
+}
+p#eleven
+{
+background-color: #6a4a3a;
+
+}
+
+p#twelve
+{
+background-color: #5b3e31;
+
+}
+p#thirteen
+{
+background-color:#4c3228;
+
+}
+p#fourteen
+{
+background-color: #3d251e;
+
+}
+
+
